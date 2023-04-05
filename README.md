@@ -1,11 +1,7 @@
-# npm install
+#steps
 
+1. npm install
+2. npm run start
 
-# npm run start
-
-In the project directory, you can run:
-
-# localhost:3000
-
-The site runs on test server: http://139.59.144.157:3000/ 
-
+#The site runs on test server: http://139.59.144.157:3000/ 
+localhost:3000
