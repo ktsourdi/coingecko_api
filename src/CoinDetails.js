@@ -27,8 +27,8 @@ const CoinPage = ({ coinId }) => {
     '24h': market_data.price_change_percentage_24h,
     '7d': market_data.price_change_percentage_7d,
     '14d': market_data.price_change_percentage_14d,
-    '1m': market_data.price_change_percentage_1m,
-    '2m': market_data.price_change_percentage_2m,
+    '1m': market_data.price_change_percentage_30d,
+    '2m': market_data.price_change_percentage_60d,
     '200d': market_data.price_change_percentage_200d,
     '1y': market_data.price_change_percentage_1y,
   };
