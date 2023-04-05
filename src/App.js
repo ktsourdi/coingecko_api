@@ -83,7 +83,7 @@ class App extends Component {
             <table className="table">
               <thead>
                 <tr>
-                  <th>Id</th>
+                  <th></th>
                   <th>Name</th>
                   <th>Symbol</th>
                   <th>Current Price</th>
